@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow-cpu
+tensorflow==2.15.0
 Pillow
 joblib
 opencv-python-headless
